@@ -8,20 +8,6 @@
   <a href="https://www.hackerrank.com/irsyanramadhan72" target="blank"><img src="https://img.shields.io/badge/Hackerrank-irsyanramadhan72-green?style=flat-square&logo=hackerrank"></a>
 </p>
 
----
-
-### 📝 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🌐 Connect with me:
-<p align="center">
-  <a href="https://linkedin.com/in/irsyanramadhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/irsan.rmd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/irsyanramadhan72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a>
-</p>
 
 ---
 
