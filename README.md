@@ -2,10 +2,10 @@
 <h3 align="center">Computer Engineering Student at Syiah Kuala University, Banda Aceh, Indonesia</h3>
 
 <p align="center">
-  <a href="mailto:irsyanramadhan72@gmail.com"><img src="https://img.shields.io/badge/Email-irsyanramadhan72@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/irsyanramadhan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Irsyan%20Ramadhan-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://instagram.com/irsan.rmd_" target="blank"><img src="https://img.shields.io/badge/Instagram-irsan.rmd_-red?style=flat-square&logo=instagram"></a>
-  <a href="https://www.hackerrank.com/irsyanramadhan72" target="blank"><img src="https://img.shields.io/badge/Hackerrank-irsyanramadhan72-green?style=flat-square&logo=hackerrank"></a>
+  <a href="mailto:irsyanramadhan72@gmail.com"><img src="https://img.shields.io/badge/Email-irsyanramadhan72@gmail.com-blue?style=plastic&logo=gmail"></a>
+  <a href="https://linkedin.com/in/irsyanramadhan" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Irsyan%20Ramadhan-blue?style=plastic&logo=linkedin"></a>
+  <a href="https://instagram.com/irsan.rmd_" target="blank"><img src="https://img.shields.io/badge/Instagram-irsan.rmd_-red?style=plastic&logo=instagram"></a>
+  <a href="https://www.hackerrank.com/irsyanramadhan72" target="blank"><img src="https://img.shields.io/badge/Hackerrank-irsyanramadhan72-green?style=plastic&logo=hackerrank"></a>
 </p>
 
 
@@ -73,8 +73,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irsyan12&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=irsyan12&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irsyan12&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
 ---
