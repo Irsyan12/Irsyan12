@@ -73,6 +73,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irsyan12&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=irsyan12&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <br>
+  <img src="https://raw.githubusercontent.com/irsyan12/irsyan12/output/snake.svg" alt="Snake animation" />
+
+###
 </p>
 
 ---
