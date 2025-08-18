@@ -18,7 +18,16 @@
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="35" height="35"/>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="35" height="35"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="35" height="35"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="35" height="35"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="35" height="35"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="35" height="35"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="35" height="35"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="35" height="35"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="35" height="35"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="35" height="35"/>
 </p>
+
+
 
 ---
 
