@@ -30,5 +30,3 @@
 
 
 ---
-
-<p align="center">Made with ❤️ by Irsyan Ramadhan</p>
