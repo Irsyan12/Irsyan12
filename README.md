@@ -47,8 +47,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irsyan12&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irsyan12&layout=compact&theme=tokyonight" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Irsyan12&theme=tokyonight-duo&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
