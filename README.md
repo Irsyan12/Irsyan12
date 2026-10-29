@@ -10,7 +10,6 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Bachelor of Computer Engineering — Syiah Kuala University
 * 💡 Interested in **Machine Learning, Web, and Mobile Development**
 * 🚀 Passionate about building real-world impactful solutions
 * 📈 Always learning, always improving
@@ -55,8 +54,15 @@
 ### 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irsyan12&theme=tokyo-night" />
+  <img
+    src="https://gh-heat.anishroy.com/api/Irsyan12/svg?theme=purple&darkMode=true"
+    alt="GitHub Contribution Calendar"
+    width="100%"
+  />
 </p>
+
+
+
 
 ---
 
